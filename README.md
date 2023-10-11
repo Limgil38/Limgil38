@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Limgil38
 - 👀 I’m interested in Database and Programming.
 - 🌱 I’m currently learning, industrial automation, programming language, database basic, computer networks.
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on always
 - 📫 How to reach me? by Email:lihmgil@gmail.com/ linkedin.com/in/ligia-gil21.
 
 <!---
