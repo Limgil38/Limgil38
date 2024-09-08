@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Limgil38
 - 👀 I’m interested in Database and Programming.
-- 🌱 I’m currently learning, Analise e desenvolvimento de sistemas, programming language, database.
-- 💞️ I’m looking to collaborate on always
+- 🌱 I’m currently estudando, Analise e desenvolvimento de sistemas, programming language, database.
 - 📫 How to reach me? by cel? (11)99158-2254/ Email:lihmgil@gmail.com/ linkedin.com/in/ligia-gil21.
 
 <!---
