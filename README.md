@@ -60,7 +60,7 @@ Estudante do 4º semestre de Análise e Desenvolvimento de Sistemas na FMU, part
 📧 lihmgil@gmail.com  
 📍 São Caetano do Sul – SP  
 🔗 www.linkedin.com/in/ligia-gil21
-(#)
+
 
 ---
 
