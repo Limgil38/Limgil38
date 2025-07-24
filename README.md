@@ -9,9 +9,9 @@
 
 ## ✨ Sobre mim
 
-Sou uma mulher lésbica, gorda, branca, casada com uma mulher preta e mãe de quatro filhos pretos. Trago comigo vivências que fortalecem meu compromisso com a inclusão, equidade e transformação social por meio da tecnologia.
+Profissional com sólida experiência na área industrial, atuando em usinagem, operação de torno CNC, injetoras e processos de produção. Atualmente em transição de carreira para a área de tecnologia, com foco em análise de dados, automação e desenvolvimento de soluções com impacto social.
 
-Tenho mais de 10 anos de experiência em ambiente industrial, operando máquinas, torno CNC e participando de processos produtivos. Hoje, além de estudar programação e dados, também desenvolvo projetos com propósito social voltados para comunidades marginalizadas.
+Estudante do 4º semestre de Análise e Desenvolvimento de Sistemas na FMU, participei de projetos voltados à inclusão digital e ao uso da tecnologia como ferramenta de transformação. Tenho facilidade de aprendizado, disciplina e sou motivada por desafios que envolvam inovação, organização e propósito.
 
 ---
 
@@ -42,8 +42,8 @@ Tenho mais de 10 anos de experiência em ambiente industrial, operando máquinas
 
 **Pessoal**
 - Organização e foco
-- Comunicação com empatia
-- Liderança em projetos sociais
+- Comunicação clara
+- Proatividade e trabalho em equipe
 
 ---
 
@@ -59,7 +59,8 @@ Tenho mais de 10 anos de experiência em ambiente industrial, operando máquinas
 
 📧 lihmgil@gmail.com  
 📍 São Caetano do Sul – SP  
-🔗 [LinkedIn (em breve)](#)
+🔗 www.linkedin.com/in/ligia-gil21
+(#)
 
 ---
 
